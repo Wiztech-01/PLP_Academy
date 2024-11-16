@@ -23,3 +23,8 @@ print(my_list)
 my_list.remove(70)
 
 print(my_list)
+
+# Task 6
+my_list.sort(reverse=False)
+
+print(my_list)
