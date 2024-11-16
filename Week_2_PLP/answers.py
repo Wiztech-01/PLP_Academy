@@ -28,3 +28,7 @@ print(my_list)
 my_list.sort(reverse=False)
 
 print(my_list)
+
+# Task 7
+index_30 = my_list.index(30)
+print("index_30:",index_30)
