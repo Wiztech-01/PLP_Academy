@@ -18,3 +18,8 @@ print(my_list)
 my_list.extend([50, 60, 70])
 
 print(my_list)
+
+# Task 5
+my_list.remove(70)
+
+print(my_list)
